@@ -1,0 +1,4 @@
+# p105.rb
+
+A_CONST = 10
+A_CONST = 20
